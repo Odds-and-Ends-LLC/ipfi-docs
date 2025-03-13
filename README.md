@@ -1,4 +1,4 @@
-# iPFI - The Premier (Intellectual Property) IP Rewards Protocol
+# iPFi - The Premier (Intellectual Property) IP Rewards Protocol
 
 iPFi blends the bonding curve thrill of platforms like pump.fun with a backable digitized asset to reward early investors and IP holders. The way it works is simple:
 
