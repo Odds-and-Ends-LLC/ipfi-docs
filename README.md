@@ -52,4 +52,4 @@ There isn't. Not everything needs AI.
 
 Secret
 
-[https://github.com/Odds-and-Ends-LLC/ipfi-docs/blob/main/IPFI_Brand_Logos.zip](Brand Kit)
+[Brand Kit](https://github.com/Odds-and-Ends-LLC/ipfi-docs/blob/main/IPFI_Brand_Logos.zip)
