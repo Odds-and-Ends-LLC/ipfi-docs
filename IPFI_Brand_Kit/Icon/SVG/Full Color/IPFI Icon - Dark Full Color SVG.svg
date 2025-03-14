@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon_dark-full-color" data-name="icon dark-full-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448.51 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e7eef4;
+      }
+
+      .cls-2 {
+        fill: #72ff88;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="1028.51 260 1148.51 320 1148.51 440 1028.51 380 1028.51 260"/>
+  <polygon class="cls-1" points="1148.51 500 1028.51 440 1028.51 680 1148.51 740 1148.51 500"/>
+  <polygon class="cls-2" points="908.51 380 1028.51 440 788.51 560 668.51 500 908.51 380"/>
+</svg>
